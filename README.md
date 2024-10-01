@@ -19,8 +19,8 @@ I'm a **Software Developer** passionate about creating scalable, responsive, and
 |--------|------------|------|-----|-----|------|
 
 ### 🛠️ Frameworks & Databases
-| Django | Spring Boot | MySQL | H2 Database |
-|--------|-------------|-------|-------------|
+| Django  | MySQL | H2 Database |
+|---------|-------|-------------|
 
 ### 🔧 Tools
 | RESTful APIs | ODOO ERP | IBM ITX | Git | GitHub |
