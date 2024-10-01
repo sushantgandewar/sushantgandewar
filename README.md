@@ -94,6 +94,7 @@ I'm a **Software Developer** passionate about creating scalable, responsive, and
 
 - **Microsoft Azure Fundamentals (AZ-900 Certified)**
 - **AWS Cloud Practitioner Certified**
+- **AWS Certified Solutions Architect - Professional**
 
 ---
 
