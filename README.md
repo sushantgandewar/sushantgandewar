@@ -15,8 +15,8 @@ I'm a **Software Developer** passionate about creating scalable, responsive, and
 ## 🛠️ My Tech Stack
 
 ### 💻 Technologies
-| Python | JavaScript | HTML | CSS | JSF | Java |
-|--------|------------|------|-----|-----|------|
+| Python | HTML | CSS | JSF | Java(Basic) |
+|--------|------|-----|-----|-------------|
 
 ### 🛠️ Frameworks & Databases
 | Django  | MySQL | H2 Database |
@@ -27,8 +27,8 @@ I'm a **Software Developer** passionate about creating scalable, responsive, and
 |--------------|----------|---------|-----|--------|
 
 ### ☁️ Cloud Platforms
-| Microsoft Azure (AZ-900 Certified) | AWS Cloud (Certified Practitioner) |
-|-----------------------------------|-----------------------------------|
+| [Microsoft Azure (AZ-900 Certified)](https://drive.google.com/file/d/1iMdXt4hl_wyC1ftD2JhTMbUVdFUdChAE/view?usp=sharing) | [AWS Cloud (Certified Practitioner)](https://drive.google.com/file/d/1PtQUrAYu3VpWTm_mH0R8_dot1cRXO5Op/view?usp=sharing) | [AWS Cloud (Certified Solution Architect)](https://drive.google.com/file/d/1ssdid3PIX-_oDgtyoWe1aepncA_lfOD5/view?usp=sharing)
+|-----------------------------------|-----------------------------------|-----------------------------------|
 
 ### 🧠 Soft Skills
 | Communication | Collaboration | Adaptability |
@@ -46,7 +46,7 @@ I'm a **Software Developer** passionate about creating scalable, responsive, and
 ## 📚 My Professional Journey:
 
 ### Programmer Analyst | Cognizant Technology Solutions
-**(October 2022 – Present)**  
+**(October 2022 – Present)(2+ Years)**  
 - Developed and maintained scalable web applications.
 - Engaged with cross-functional teams to collect and analyze requirements, leading to successful feature integration.
 - Architected and deployed **RESTful APIs** for seamless backend-frontend communication.
