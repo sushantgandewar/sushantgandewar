@@ -43,7 +43,6 @@ Dedicated Programmer Analyst with over two years of experience in developing, op
 
 ## 📈 GitHub Stats:
 
-![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushantgandewar&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgandewar&layout=compact&theme=dark)
 
 ---
