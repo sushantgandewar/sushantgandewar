@@ -30,7 +30,7 @@ Dedicated Programmer Analyst with over two years of experience in developing, op
 | [Microsoft Azure (AZ-900 Certified)](https://drive.google.com/file/d/1PtQUrAYu3VpWTm_mH0R8_dot1cRXO5Op/view?usp=sharing) | [AWS Cloud (Certified Practitioner)](https://drive.google.com/file/d/1iMdXt4hl_wyC1ftD2JhTMbUVdFUdChAE/view?usp=sharing) | [AWS Cloud (Certified Solution Architect)](https://drive.google.com/file/d/1ssdid3PIX-_oDgtyoWe1aepncA_lfOD5/view?usp=sharing) | [Power BI Analyst Associate(PL - 300)](https://drive.google.com/file/d/1QbUyZv8oJRzfI28vyaULvFx0Evu64nr-/view?usp=sharing)
 
 ### 📄 Resume
-| [View My Resume](https://drive.google.com/file/d/11WwEWYJJgQIWZnZN5NEBLmpDnEbd0wse/view?usp=sharing) |
+| [View My Resume](https://drive.google.com/file/) |
 |-----------------------------------------------|
 
 
